@@ -6,5 +6,5 @@
 ### Languages and Tools:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-32658f?style=flat&logoColor=fff&logo=postgresql)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
-
-
+![HTML5](https://img.shields.io/badge/-HTML5-dd4b25?style=flat&logoColor=fff&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0070ba?style=flat&logoColor=fff&logo=CSS3)&nbsp;
