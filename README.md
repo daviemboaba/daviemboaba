@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Linkedin]](https://www.linkedin.com/in/daviemboaba/)
+### Hi, I'm Davi Emboaba
 
 <!--
 **daviemboaba/daviemboaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
