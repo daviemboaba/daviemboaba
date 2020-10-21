@@ -2,6 +2,8 @@
 
 I have technical training in Computer Maintenance and Support, I am majoring in Systems Analysis and Development and I work as a Backend Developer.
 
+https://img.shields.io/twitter/follow/daviemboaba_?color=00acee&style=for-the-badge
+
 [![Spotify](https://spotify-daviemboaba.vercel.app/api/spotify)](https://open.spotify.com/user/o172hvfe3w593x75nzdwnnkm4?si=3t2EzIT-QdSyzIU6iOKi1Q)
 
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php) &nbsp; 
