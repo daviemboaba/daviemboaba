@@ -14,11 +14,11 @@ I have technical training in Computer Maintenance and Support, I am majoring in 
 <details>
   <summary>GitHub Stats</summary>
   
-  <img width="500px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api?username=daviemboaba&bg_color=fff&show_icons=false&text_color=282a37&cache_seconds=1800&hide_border=false" />
+  <img width="500px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api?username=daviemboaba&bg_color=fff&show_icons=false&text_color=282a37&cache_seconds=1800&hide_border=true" />
 
 </details>
 
 <details>
   <summary>Most Used Languages</summary>
-      <img width="400px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api/top-langs/?username=daviemboaba&layout=compact&bg_color=2c2c32&text_color=fff"/>
+      <img width="325px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api/top-langs/?username=daviemboaba&langs_count=8&bg_color=fff&text_color=282a37&hide_border=true" />
 </details>
