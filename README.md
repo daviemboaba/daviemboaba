@@ -11,7 +11,7 @@ I have technical training in Computer Maintenance and Support, I am majoring in 
 ![CSS3](https://img.shields.io/badge/-CSS-00aaeb?style=flat&logoColor=fff&logo=CSS3)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0176b8?style=flat&logoColorfff=&logo=visual-studio-code)&nbsp;
   
-<details>
+<details open>
   <summary>GitHub Stats</summary>
   
   <img width="500px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api?username=daviemboaba&bg_color=fff&show_icons=false&text_color=282a37&cache_seconds=1800&hide_border=true" />
