@@ -16,12 +16,12 @@ https://img.shields.io/twitter/follow/daviemboaba_?color=00acee&style=for-the-ba
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logoColorfff=&logo=visual-studio-code) &nbsp;
   
 <details open>
-  <summary>GitHub Stats</summary>
+  <summary>👉 GitHub Stats</summary>
   <img width="500px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api?username=daviemboaba&bg_color=fff&show_icons=false&text_color=282a37&cache_seconds=1800&hide_border=true" />
 </details>
 
 <details>
-  <summary>Most Used Languages</summary>
+  <summary>👉 Most Used Languages</summary>
   <img width="325px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api/top-langs/?username=daviemboaba&langs_count=8&bg_color=fff&text_color=282a37&hide_border=true" />
 </details>
 
