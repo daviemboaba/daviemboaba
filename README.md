@@ -7,7 +7,6 @@ https://img.shields.io/twitter/follow/daviemboaba_?color=00acee&style=for-the-ba
 [![Spotify](https://spotify-daviemboaba.vercel.app/api/spotify)](https://open.spotify.com/user/o172hvfe3w593x75nzdwnnkm4?si=3t2EzIT-QdSyzIU6iOKi1Q)
 
 ## Technologies I use
-
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logoColor=fff&logo=php) &nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logoColor=fff&logo=JavaScript) &nbsp; 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logoColor=fff&logo=postgresql) &nbsp;
@@ -26,4 +25,5 @@ https://img.shields.io/twitter/follow/daviemboaba_?color=00acee&style=for-the-ba
 </details>
 
 ## Where can you find me
+![Facebook](https://img.shields.io/badge/-PHP-777BB4?style=flat&logoColor=fff&logo=facebook) &nbsp;
 
