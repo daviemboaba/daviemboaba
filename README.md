@@ -25,7 +25,7 @@ https://img.shields.io/twitter/follow/daviemboaba_?color=00acee&style=for-the-ba
 </details>
 
 ## Where can you find me
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logoColor=fff&logo=facebook)] (https://www.facebook.com/daviiemboaba) &nbsp;
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logoColor=fff&logo=facebook)][facebook] &nbsp;
 
 
 [facebook]: https://www.facebook.com/daviiemboaba
