@@ -2,7 +2,7 @@
 
 I have technical training in Computer Maintenance and Support, I am majoring in Systems Analysis and Development and I work as a Backend Developer.
 
-<img src="https://img.shields.io/twitter/follow/daviemboaba_?color=00acee&style=for-the-badge" />
+<img width="50px" src="https://img.shields.io/twitter/follow/daviemboaba_?color=00acee&style=for-the-badge" />
 
 https://img.shields.io/twitter/follow/daviemboaba_?color=00acee&style=for-the-badge
 
