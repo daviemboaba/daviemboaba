@@ -14,7 +14,7 @@ I have technical training in Computer Maintenance and Support, I am majoring in 
 <table width="100%" align="center"> 
   <tr>
     <td width="50%">
-      <img width="400px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api?username=daviemboaba&bg_color=2c2c32&show_icons=true&text_color=fff&cache_seconds=1800"/>
+      <img width="500px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api?username=daviemboaba&bg_color=2c2c32&show_icons=true&text_color=fff&cache_seconds=1800"/>
     </td>
     <td width="50%">
       <img width="500px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api/top-langs/?username=daviemboaba&layout=compact&bg_color=2c2c32&text_color=fff"/>
