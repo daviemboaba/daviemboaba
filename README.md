@@ -11,12 +11,14 @@ I have technical training in Computer Maintenance and Support, I am majoring in 
 ![CSS3](https://img.shields.io/badge/-CSS-00aaeb?style=flat&logoColor=fff&logo=CSS3)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-0176b8?style=flat&logoColorfff=&logo=visual-studio-code)&nbsp;
   
-<table width="100%" align="center"> 
-  <tr>
-    <td width="50%">
-      <img width="500px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api?username=daviemboaba&bg_color=2c2c32&show_icons=true&text_color=fff&cache_seconds=1800"/>
-    </td>
-    <td width="50%">
-      <img width="500px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api/top-langs/?username=daviemboaba&layout=compact&bg_color=2c2c32&text_color=fff"/>
-    </td>
-</table>
+<details>
+  <summary>GitHub Stats</summary>
+  
+  <img width="500px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api?username=daviemboaba&bg_color=fff&show_icons=false&text_color=282a37&cache_seconds=1800&hide_border=false" />
+
+</details>
+
+<details>
+  <summary>Most Used Languages</summary>
+      <img width="400px" align="center" src="https://github-readme-stats-daviemboaba.vercel.app/api/top-langs/?username=daviemboaba&layout=compact&bg_color=2c2c32&text_color=fff"/>
+</details>
