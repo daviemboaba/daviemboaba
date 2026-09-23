@@ -1,55 +1,182 @@
-<h1 align="center">Olá, eu sou Davi Garcia Emboaba 👋</h1>
-<h3 align="center">Senior Web Developer & Technical Lead do Brasil 🇧🇷</h3>
+<h1 align="center">Olá, eu sou o Davi Emboaba 👋</h1>
 
 <p align="center">
-  Apaixonado por arquitetura de software, construção de SaaS e soluções escaláveis.
+  <b>Desenvolvedor Full Stack Sênior & Tech Lead</b><br>
+  PHP · Laravel · Node.js · React · Vue · Docker · AWS
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daviemboaba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:davi.emboaba@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <img src="https://img.shields.io/badge/São_José_dos_Campos-SP-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização">
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🚀 Sobre mim
 
-- 🏢 Atualmente construindo soluções na **Novale** e liderando operações técnicas e migrações na **Idasoft Tecnologia**.
-- 🚀 Desenvolvendo produtos próprios como o **Repertorium** (plataforma de gestão musical) e o **Garage** (SaaS de gestão para oficinas).
-- 🔧 Experiência sólida em modernização de sistemas, como migrações completas de monolitos PHP para ecossistemas modernos (React, Tailwind CSS, i18next).
-- ⚙️ Focado em observabilidade avançada, orquestrando infraestrutura com Cloudflare Tunnels, mensageria com RabbitMQ e monitoramento multi-VPS em tempo real com WebSockets e EasyPanel.
-- 🌍 Aprimorando continuamente meu inglês, com foco no mercado de tecnologia internacional.
+Engenheiro de Software Sênior e Tech Lead com **mais de 10 anos de vivência em tecnologia**, especializado em arquitetar, desenvolver e escalar soluções Full Stack robustas.
+
+Comecei na infraestrutura (montagem e manutenção de máquinas, redes, suporte) e evoluí para a engenharia de software, o que me dá uma visão de ponta a ponta, **do servidor ao cliente**. Hoje atuo com:
+
+- 🏗️ Definição de arquitetura e integração de sistemas complexos
+- 👨‍🏫 Liderança técnica, code review e mentoria de desenvolvedores
+- 🎯 Tomada de decisão técnica alinhada à estratégia de negócio
+- ☁️ Estudo contínuo do ecossistema AWS (DevOps, custos, performance e IA generativa)
+
+> Movido pela resolução de problemas complexos, aprendizado contínuo e pela construção de aplicações escaláveis e orientadas a performance.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+## 🛠️ Stack & Tecnologias
 
-**Backend & Banco de Dados**
-<p>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FC6A31?style=flat-square&logo=doctrine&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square&logo=php&logoColor=white)
 
 **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00C58E" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
 
-**Infraestrutura, DevOps & Integrações**
-<p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/VPS" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Bancos de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Arquitetura & Integrações**
+
+![REST](https://img.shields.io/badge/APIs_RESTful-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
+![Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![EasyPanel](https://img.shields.io/badge/EasyPanel-0F172A?style=flat-square&logo=serverless&logoColor=white)
+
+**Serviços AWS com que trabalho/estudo:** EC2 · EC2 Auto Scaling · ELB · S3 · CloudFront · RDS · DynamoDB · EFS · VPC · IAM · CloudWatch · SNS · Budgets · CodeCommit · CodeDeploy · CodePipeline · Bedrock · SageMaker
+
+**Metodologias:** Scrum · MVC · Orientação a Objetos · TDD
 
 ---
 
-### 📫 Como entrar em contato
+## 💼 Experiência
 
-- [LinkedIn](https://www.linkedin.com/in/daviemboaba)
-- [E-mail](mailto:davi@idasoft.com.br)
+| Período | Cargo | Empresa |
+|---|---|---|
+| jan/2026 – atual | **Líder Técnico** | Novale Soluções |
+| mar/2025 – atual | **Desenvolvedor Full Stack Sênior** | Novale Soluções |
+| set/2022 – atual | **Proprietário** | Idasoft Tecnologia |
+| mai/2022 – mar/2025 | Desenvolvedor PHP Pleno | Compnet Tecnologia |
+| nov/2020 – mai/2022 | Desenvolvedor Trainee → Júnior I → Júnior II | Vish! |
+| jan/2019 – out/2020 | Estagiário → Auxiliar → Analista de Desenvolvimento de Sistemas | Microbit |
 
 ---
+
+## 🎓 Formação
+
+- **MBA em Gestão de Projetos e Processos em TI** — UNOPAR (2025 – 2026)
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade Paulista (2017 – 2021)
+
+---
+
+## 📜 Certificações
+
+<details open>
+<summary><b>☁️ Amazon Web Services (AWS) — 2026</b></summary>
+<br>
+
+- AWS Cloud Quest: Cloud Practitioner (+ Training Badge)
+- Getting Started with DevOps on AWS
+- AWS Billing and Cost Management
+- Amazon S3 Performance Optimization
+- Introduction to Generative AI — Art of the Possible
+- Job Roles in the Cloud
+
+</details>
+
+<details>
+<summary><b>🐘 PHP — Alura (2022 – 2023)</b></summary>
+<br>
+
+- Formação Aprenda a programar em PHP
+- Orientação a Objetos com PHP: classes, métodos e atributos
+- Avançando com Orientação a Objetos: herança, polimorfismo e interfaces
+- PHP e TDD: testes com PHPUnit
+- Mocks em PHP: entenda os dublês de testes
+- PHP e PDO: trabalhando com bancos de dados
+- Doctrine: conhecendo um ORM PHP
+- PHP Exceptions: tratamento de erros
+- PHP I/O: trabalhando com arquivos e streams
+- PHP Strings, Arrays e coleções
+- PHP: conceitos, lidando com dados, loops e mais
+
+</details>
+
+<details>
+<summary><b>🗄️ SQL & MySQL — Alura (2023)</b></summary>
+<br>
+
+- Formação SQL com MySQL Server da Oracle
+- Administração do MySQL: segurança e otimização do banco
+- Consultas SQL: avançando no SQL com MySQL
+- Procedures SQL: executando código no MySQL
+- Comandos DML: manipulação de dados com MySQL
+- SQL com MySQL: manipule e consulte dados
+
+</details>
+
+<details>
+<summary><b>🧰 Outros — Alura (2022)</b></summary>
+<br>
+
+- Git e GitHub: repositório, commit e versões
+- Arquitetura de computadores: por trás de como seu programa funciona
+- Java JRE e JDK: compile e execute o seu programa
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <i>Construindo soluções robustas, de sistemas de gestão a CRMs internacionais.</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daviemboaba&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviemboaba&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Linguagens">
+</p>
+
+---
+
+<p align="center">
+  💬 Aberto a novos desafios em ambientes de alta performance tecnológica — presencial, híbrido ou remoto.<br>
+  <a href="https://www.linkedin.com/in/daviemboaba">Vamos conversar no LinkedIn!</a>
 </p>
