@@ -115,6 +115,10 @@ Comecei na infraestrutura (montagem e manutenção de máquinas, redes, suporte)
 <summary><b>☁️ Amazon Web Services (AWS) — 2026</b></summary>
 <br>
 
+<a href="https://www.credly.com/badges/a4a98bc2-c101-4795-996d-45688a949980/public_url">
+  <img src="https://images.credly.com/size/220x220/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="130" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge">
+</a>
+
 - AWS Cloud Quest: Cloud Practitioner (+ Training Badge)
 - Getting Started with DevOps on AWS
 - AWS Billing and Cost Management
