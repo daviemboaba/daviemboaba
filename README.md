@@ -170,8 +170,7 @@ Comecei na infraestrutura (montagem e manutenção de máquinas, redes, suporte)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=daviemboaba&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviemboaba&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Linguagens">
+  <img src="https://streak-stats.demolab.com/?user=daviemboaba&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak">
 </p>
 
 ---
