@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daviemboaba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/daviemboaba"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:davi.emboaba@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <img src="https://img.shields.io/badge/São_José_dos_Campos-SP-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização">
 </p>
